@@ -1,7 +1,8 @@
 nav,
 .nav {
     color: white;
-    background: linear-gradient(aqua, black);
+    /*background: linear-gradient(white, black);*/
+    background-color:blue;
 }
 
 main,
